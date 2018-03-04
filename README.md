@@ -28,6 +28,11 @@ To install a package type the command: pip install <package_name> |OR| easy_inst
 Example: To install the package pandas, use the command: pip install pandas |OR| easy_install pandas
 
 
+
+
+
+
+
 After installation of all the packages needed, open Jupyter Notebook from the 
 command Prompt/terminal using the commmand :Jupyter Notebook 
 and then pressing enter
