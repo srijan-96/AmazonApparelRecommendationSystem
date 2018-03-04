@@ -23,6 +23,8 @@ In Command prompt(Windows)/Terminal(Linux) type :
 
 
 To install a package type the command: pip install <package_name> |OR| easy_install <packlage_name>
+
+
 Example: To install the package pandas, use the command: pip install pandas |OR| easy_install pandas
 
 
