@@ -5,7 +5,6 @@ provided by Amazon.com
 
 Built with: Python 3.6.3, Jupyter Notebook
 
-
 Packages required/used: pandas,
                         scikit-learn,
                         scipy,
