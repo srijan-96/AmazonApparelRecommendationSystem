@@ -35,7 +35,7 @@ command Prompt/terminal using the commmand :Jupyter Notebook
 and then pressing enter
 
 
-Browse the direcrories and open the .ipynb files to access the code.
+Browse the directories and open the .ipynb files to access the code.
 
 
 Data files and other additional requiremenst can be found here:
