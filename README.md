@@ -1,4 +1,4 @@
-### Amazon Apparel Recommendation System
+# AmazonApparelRecommendationSystem
 
 A womens apparel Recommendation system based on Datasets
 provided by Amazon.com
