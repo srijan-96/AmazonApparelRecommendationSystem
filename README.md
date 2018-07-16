@@ -32,6 +32,8 @@ Jupyter Notebook
 
 Browse the directories and open the .ipynb files to access the code.
 Data files and other additional requiremenst can be found [here](https://drive.google.com/open?id=0BwNkduBnePt2VWhCYXhMV3p4dTg)
+
+
 A minimum RAM size of 4 GB is preferrable for a smooth run of the code.
 
 Use Jupyter iPython Notebook for a clear and lucid comprehension of the code.
